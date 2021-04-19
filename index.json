@@ -1,0 +1,78 @@
+{
+  "metafields": {
+    "shop": "testshop29127966775.myshopify.com",
+    "settings": {
+      "block_order": ["1492096252560"],
+      "blocks": {
+        "1492096252560": {
+          "disabled": "0",
+          "number": "+919886675660",
+          "name": "Sam",
+          "label": "Support",
+          "avatar": "sam.png",
+          "online": "1",
+          "timezone": "America/New_York",
+          "sunday": { "enabled": "1", "range": "480,1050" },
+          "monday": { "enabled": "1", "range": "480,1050" },
+          "tuesday": { "enabled": "1", "range": "480,1050" },
+          "wednesday": { "enabled": "1", "range": "480,1050" },
+          "thursday": { "enabled": "1", "range": "480,1050" },
+          "friday": { "enabled": "1", "range": "480,1050" },
+          "saturday": { "enabled": "1", "range": "480,1050" },
+          "offline": "I will be back soon",
+          "chat": {
+            "enabled": "1",
+            "greeting": "Hello! I'm Sameer from DesiMango team. How can I help you today?"
+          },
+          "message": "",
+          "page_url": "0"
+        }
+      },
+      "style": {
+        "pattern": "0",
+        "customized": {
+          "enabled": "0",
+          "color": "#ffffff",
+          "background": "#01e677"
+        }
+      },
+      "share": {
+        "desktop": { "disabled": "1", "position": "left" },
+        "mobile": { "disabled": "1", "position": "left" },
+        "style": { "color": "#ffffff", "background": "#01e677" },
+        "texts": {
+          "button": "Share",
+          "message": "I have just bought some really sweet and ripe Alphonso mangoes from DesiMango. Why don't you give it a try as well."
+        }
+      },
+      "track_url": "#",
+      "charge": false,
+      "desktop": {
+        "disabled": "0",
+        "position": "right",
+        "layout": "button_chat"
+      },
+      "mobile": {
+        "disabled": "0",
+        "position": "right",
+        "layout": "button_chat"
+      },
+      "texts": {
+        "title": "Hi there 👋",
+        "description": "Welcome to DesiMango. How can we help you today? 🎉",
+        "note": "We typically reply within a few minutes",
+        "button": "Chat with us",
+        "placeholder": "Send a message…",
+        "emoji_search": "Search emoji…",
+        "emoji_frequently": "Frequently used",
+        "emoji_people": "People",
+        "emoji_nature": "Nature",
+        "emoji_objects": "Objects",
+        "emoji_places": "Places",
+        "emoji_symbols": "Symbols",
+        "emoji_not_found": "No emoji could be found"
+      }
+    },
+    "moneyFormat": "\u003cspan\u003eRs. {{amount}} \u003c/span\u003e"
+  }
+}
