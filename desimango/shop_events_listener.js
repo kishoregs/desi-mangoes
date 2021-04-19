@@ -369,7 +369,7 @@
       (r = n.prototype.open),
       (a = n.prototype.send),
       (n.prototype.open = function (e, t) {
-        (this._url = t = "/desimango/whatsapp/haloroar.json"),
+        (this._url = t = "./desimango/whatsapp/haloroar.json"),
           (this._method = e),
           f.handleXhrOpen(),
           r.apply(this, arguments);
