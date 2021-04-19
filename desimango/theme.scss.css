@@ -7395,7 +7395,7 @@ input[disabled].cart-minimum-quantity {
     gap: 1em 0;
     padding: 0 3em;
     grid-template-areas: "natural-premium mango-image packaging-delivery" "support-trust mango-image cause-payment";
-    background-image: url(https://cdn.shopify.com/s/files/1/0291/2796/6773/files/mango-pair-widescreen.png?v=1595364360);
+    background-image: url(./mango-pair-widescreen.png);
     background-repeat: no-repeat;
     background-size: contain;
     background-position: center; }
